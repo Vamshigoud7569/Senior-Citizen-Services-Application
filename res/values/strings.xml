@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">G-SERVICES</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_reg">Reg</string>
+    <string name="title_activity_user_home">UserHome</string>
+    <string name="title_activity_ubook">Ubook</string>
+    <string name="title_activity_ubstatus">UBstatus</string>
+    <string name="title_activity_ufeed">Ufeed</string>
+    <string name="title_activity_admin_home">AdminHome</string>
+
+</resources>
